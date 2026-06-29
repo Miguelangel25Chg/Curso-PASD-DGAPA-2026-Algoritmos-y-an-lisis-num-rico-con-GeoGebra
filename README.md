@@ -52,7 +52,12 @@ $$\begin{pmatrix} m & \sum_{i=1}^m x_i & \sum_{i=1}^m x_i^2 & \dots & \sum_{i=1}
 * Modelación por aproximación exponencial con mínimos cuadrados: (https://www.geogebra.org/m/vcz2st28)
 * Modelación por aproximación logarítimica con mínimos cuadrados_ (https://www.geogebra.org/m/fgqnw7ws)
 * Práctica de una aproximación logarítimica: (https://www.geogebra.org/m/pc5jntfx)
-
+## 📂 Videos generados para el curso
+* Video del 22/06/2026: (https://classroom.google.com/c/ODY3Nzg3Nzc2MzMx/m/ODY4NDQwMDMzOTgw/details)
+* Video del 23/06/2026:()
+* Video del 24/06/2026:()
+* Video del 25/06/2026:()
+* Video del 26/06/2026:()
 ---
 
 ## 👥 Créditos y Desglose de Autoría Docente
@@ -60,6 +65,6 @@ $$\begin{pmatrix} m & \sum_{i=1}^m x_i & \sum_{i=1}^m x_i^2 & \dots & \sum_{i=1}
 En estricto cumplimiento de los principios de transparencia académica y propiedad de los contenidos desarrollados, se detalla la contribución específica de los instructores:
 
 * **Mtro. Miguel Ángel Chávez García**  
-  * *Diseño y desarrollo teórico-A}analítico, Programación Matemática de las poligonales e interactivos en GeoGebra, y aaquetación del contenido académico en $\LaTeX$.*
+  * *Diseño y desarrollo teórico-analítico, programación matemática de las poligonales e interactivos en GeoGebra, autor de contenido académico en $\LaTeX$.*
 * **Mat. Alejandro Martínez Ireneo**  
-  * *Coautor intitucional.*
+  * *Ayudante en sesiones.*
