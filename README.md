@@ -54,7 +54,7 @@ El desmadre de la aproximación óptima se aborda desde la perspectiva del álge
 
 * `EDO_Analisis_Numerico_con_GeoGebra_2026.pdf`: Presentación oficial en extenso con el aparato analítico y geométrico del curso.
 * `/Modelos_GeoGebra/`: Archivos `.ggb` interactivos que muestran las *poligonales de Euler*, las matrices de momentos para polinomios de grado $n$, y los modelos de linealización logística/exponencial.
-* `/Src_LaTeX/`: Código fuente de las guías docentes escritas para el laboratorio.
+* Enlace del metodo de Euler (https://www.geogebra.org/m/rucxsp8f)
 
 ---
 
