@@ -8,6 +8,9 @@ El enfoque central del curso rompe con la enseñanza puramente operativa del sof
 
 ## 📐 Marco Teórico y Aparato Analítico
 
+### 0. Sucesiones
+Se presenta material teórico que sustenta los comandos nativos de GeoGegra para generar sucesiones y series
+
 ### 1. Fundamentos y Geometría de la EDO (Enfoque de V.I. Arnold)
 Se modelan las Ecuaciones Diferenciales Ordinarias (EDO) de primer orden de la forma $\dot{x} = v(t,x)$ como campos vectoriales que asignan vectores de velocidad en el espacio de fases, garantizando la existencia y unicidad locales mediante el **Teorema de Picard-Lindelöf**:
 $$\|f(t, y_1) - f(t, y_2)\|_2 \le L_K \|y_1 - y_2\|_2$$
