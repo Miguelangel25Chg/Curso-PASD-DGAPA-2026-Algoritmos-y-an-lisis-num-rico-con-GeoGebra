@@ -59,7 +59,9 @@ El desmadre de la aproximación óptima se aborda desde la perspectiva del álge
 * Método de Runge Kutta de orden cuatro: (https://www.geogebra.org/m/h9sk7hm3)
 * Aproximación por mínimos cuadrados: (https://www.geogebra.org/m/gbhsurzw)
 * Aproximación por polinomios grados dos por mínimos cuadrados (https://www.geogebra.org/m/pwexfg2n)
-* 
+* Modelación por aproximación exponencial con mínimos cuadrados: (https://www.geogebra.org/m/vcz2st28)
+* Modelación por aproximación logarítimica con mínimos cuadrados_ (https://www.geogebra.org/m/fgqnw7ws)
+* Práctica de una aproximación logarítimica: (https://www.geogebra.org/m/pc5jntfx)
 
 ---
 
