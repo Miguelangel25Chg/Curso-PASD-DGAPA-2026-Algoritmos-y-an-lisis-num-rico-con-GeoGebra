@@ -54,10 +54,10 @@ $$\begin{pmatrix} m & \sum_{i=1}^m x_i & \sum_{i=1}^m x_i^2 & \dots & \sum_{i=1}
 * Práctica de una aproximación logarítimica: (https://www.geogebra.org/m/pc5jntfx)
 ## 📂 Videos generados para el curso
 * Video del 22/06/2026: (https://classroom.google.com/c/ODY3Nzg3Nzc2MzMx/m/ODY4NDQwMDMzOTgw/details)
-* Video del 23/06/2026:()
-* Video del 24/06/2026:()
-* Video del 25/06/2026:()
-* Video del 26/06/2026:()
+* Video del 23/06/2026:(https://drive.google.com/file/d/1Iqp0z6QG68jXwNIhHtMN65jX9d8RzlIs/view?usp=drive_link)
+* Video del 24/06/2026:(https://drive.google.com/file/d/1umD78TAkY5UYoWCZpx0FTHP5FuKfK4F1/view?usp=drive_link)
+* Video del 25/06/2026:(https://drive.google.com/file/d/1rqGQ5Ihu79PzxXMIHcGYF5eM8lyjgZNt/view?usp=drive_link)
+* Video del 26/06/2026:(https://drive.google.com/file/d/1KBr4M2MQAHnCfqT7gUN_FAQFNvV12rg-/view?usp=drive_link)
 ---
 
 ## 👥 Créditos y Desglose de Autoría Docente
